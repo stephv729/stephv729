@@ -11,8 +11,9 @@
 ```javascript
 const steph = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Ruby, Python,],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Rails],"
+  code: [Javascript, HTML, CSS, Ruby, Python],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Rails],
+  languageSpoken = ["es_LA", "en_US", it_IT]
 }
 ```
 
