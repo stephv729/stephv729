@@ -1,5 +1,5 @@
 <h2> Hi, I'm Steph! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="images/girl-laptop.gif" width="230">
 <p>Full stack web developer looking for new adventures</p>
 
 [![Linkedin: Stephanny Vargas](https://img.shields.io/badge/-stephannyvargas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephannyvargas/)](https://www.linkedin.com/in/thaianebraga/)
