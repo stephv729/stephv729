@@ -2,7 +2,7 @@
 <img align='right' src="images/girl-laptop.gif" width="230">
 <p>Full stack web developer looking for new adventures</p>
 
-[![Linkedin: Stephanny Vargas](https://img.shields.io/badge/-stephannyvargas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephannyvargas/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: Stephanny Vargas](https://img.shields.io/badge/-stephannyvargas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephannyvargas/)](https://www.linkedin.com/in/stephannyvargas/)
 [![GitHub Stephanny Vargas](https://img.shields.io/github/followers/stephv729?label=follow&style=social)](https://github.com/stephv729)
 
 
