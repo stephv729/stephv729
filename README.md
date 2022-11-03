@@ -17,6 +17,6 @@ const steph = {
 }
 ```
 
-<img src="images/bullet-point.png" width="25"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="images/bullet-point.png" width="25"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
 ---
